@@ -13,5 +13,5 @@ const UserStory = sequelize.define(
     timestamps: true,
   }
 );
-
+// Sync the model with the database
 module.exports = UserStory;

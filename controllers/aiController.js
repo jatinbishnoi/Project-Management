@@ -61,3 +61,4 @@ exports.generateUserStories = async (req, res) => {
     });
   }
 };
+// Sync the model with the database
